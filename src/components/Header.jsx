@@ -10,7 +10,7 @@ function Header() {
           <Navbar variant="dark" expand="lg" collapseOnSelect>
             <Container style={{fontSize:15}}>
               <Row><Col style={{fontSize: 10, color: 'white'}} xs={4}>
-                <img src={logo} alt="#" height='90'/></Col><Col xs={8} style={{color:'white', fontSize:16 }}><br></br> Bhaktivedanta Institute<br></br> Bhuvaneshwar</Col>
+                <img src={logo} alt="#" height='90'/></Col><Col xs={8} style={{color:'white', fontSize:16 }}><br></br> Bhaktivedanta Institute<br></br> Bhubaneswar</Col>
               </Row>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
