@@ -1,4 +1,6 @@
 import React from 'react'
+import logo from './favicon.png'
+
 import { Container, Row, Col } from 'react-bootstrap'
 
 function Footer() {
@@ -15,7 +17,7 @@ function Footer() {
                             
 									
             		<br></br><br></br><br></br><Row><Col>
-			<a href="http://binstitute.org/"><img src="http://binstitute.org/wp-content/uploads/2019/05/biglogo-2-1.png" class="logo_main" alt=" image " width="200" height="210" /></a>
+			<a href="http://binstitute.org/"><img src={logo} class="logo_main" alt=" image " width="200" height="210" /></a>
 		</Col>
         
 		

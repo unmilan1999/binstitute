@@ -8,9 +8,9 @@ function Header() {
     return (
         <header><b>
           <Navbar variant="dark" expand="lg" collapseOnSelect>
-            <Container style={{fontSize:20}}>
-              <Row>
-                <img src={logo} alt="#" height='90'/>
+            <Container style={{fontSize:15}}>
+              <Row><Col style={{fontSize: 10, color: 'white'}} xs={3}>
+                <img src={logo} alt="#" height='80'/></Col><Col xs={9} style={{color:'white', fontSize:15 }}><br></br> Bhaktivedanta Institute<br></br> Bhuvaneshwar</Col>
               </Row>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
