@@ -1,26 +1,33 @@
 {
   "files": {
-    "main.css": "/binstitute/static/css/main.a2fff2c4.chunk.css",
-    "main.js": "/binstitute/static/js/main.475045cf.chunk.js",
-    "main.js.map": "/binstitute/static/js/main.475045cf.chunk.js.map",
-    "runtime-main.js": "/binstitute/static/js/runtime-main.a4dc8e6a.js",
-    "runtime-main.js.map": "/binstitute/static/js/runtime-main.a4dc8e6a.js.map",
+    "main.css": "/binstitute/static/css/main.6cbb01a7.chunk.css",
+    "main.js": "/binstitute/static/js/main.e42009bf.chunk.js",
+    "main.js.map": "/binstitute/static/js/main.e42009bf.chunk.js.map",
+    "runtime-main.js": "/binstitute/static/js/runtime-main.7cf944dc.js",
+    "runtime-main.js.map": "/binstitute/static/js/runtime-main.7cf944dc.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/binstitute/static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.65d9db12.chunk.js": "/binstitute/static/js/2.65d9db12.chunk.js",
-    "static/js/2.65d9db12.chunk.js.map": "/binstitute/static/js/2.65d9db12.chunk.js.map",
-    "static/js/3.b8e8640e.chunk.js": "/binstitute/static/js/3.b8e8640e.chunk.js",
-    "static/js/3.b8e8640e.chunk.js.map": "/binstitute/static/js/3.b8e8640e.chunk.js.map",
+    "static/js/2.ad89c543.chunk.js": "/binstitute/static/js/2.ad89c543.chunk.js",
+    "static/js/2.ad89c543.chunk.js.map": "/binstitute/static/js/2.ad89c543.chunk.js.map",
+    "static/js/3.ab5ca44c.chunk.js": "/binstitute/static/js/3.ab5ca44c.chunk.js",
+    "static/js/3.ab5ca44c.chunk.js.map": "/binstitute/static/js/3.ab5ca44c.chunk.js.map",
     "index.html": "/binstitute/index.html",
     "static/css/2.b57b7cfd.chunk.css.map": "/binstitute/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.a2fff2c4.chunk.css.map": "/binstitute/static/css/main.a2fff2c4.chunk.css.map",
-    "static/js/2.65d9db12.chunk.js.LICENSE.txt": "/binstitute/static/js/2.65d9db12.chunk.js.LICENSE.txt",
-    "static/media/favicon.c9e507cb.png": "/binstitute/static/media/favicon.c9e507cb.png"
+    "static/css/main.6cbb01a7.chunk.css.map": "/binstitute/static/css/main.6cbb01a7.chunk.css.map",
+    "static/js/2.ad89c543.chunk.js.LICENSE.txt": "/binstitute/static/js/2.ad89c543.chunk.js.LICENSE.txt",
+    "static/media/favicon.c9e507cb.png": "/binstitute/static/media/favicon.c9e507cb.png",
+    "static/media/img1.cefb73d9.JPG": "/binstitute/static/media/img1.cefb73d9.JPG",
+    "static/media/img2.17a208e9.JPG": "/binstitute/static/media/img2.17a208e9.JPG",
+    "static/media/img3.dd803b3f.JPG": "/binstitute/static/media/img3.dd803b3f.JPG",
+    "static/media/img4.d0396815.JPG": "/binstitute/static/media/img4.d0396815.JPG",
+    "static/media/mail.00edf66e.jpg": "/binstitute/static/media/mail.00edf66e.jpg",
+    "static/media/abt.css": "/binstitute/static/media/meditation.577dde7d.jpg",
+    "static/media/phone.5cfab0f6.jpg": "/binstitute/static/media/phone.5cfab0f6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4dc8e6a.js",
+    "static/js/runtime-main.7cf944dc.js",
     "static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.65d9db12.chunk.js",
-    "static/css/main.a2fff2c4.chunk.css",
-    "static/js/main.475045cf.chunk.js"
+    "static/js/2.ad89c543.chunk.js",
+    "static/css/main.6cbb01a7.chunk.css",
+    "static/js/main.e42009bf.chunk.js"
   ]
 }
