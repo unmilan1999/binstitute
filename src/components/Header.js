@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from './favicon.png'
+import './abt.css'
 
 import { Container, Navbar, Nav, NavDropdown, Row, Col } from 'react-bootstrap'
 import { LinkContainer } from 'react-router-bootstrap'
@@ -10,7 +11,7 @@ function Header() {
           <Navbar variant="dark" expand="lg" collapseOnSelect>
             <Container style={{fontSize:15}}>
               <Row><Col style={{fontSize: 10, color: 'white'}} xs={4}>
-                <img src={logo} alt="#" height='90'/></Col><Col xs={8} style={{color:'white', fontSize:16 }}><br></br> Bhaktivedanta Institute<br></br> Bhubaneswar</Col>
+                <img src={logo} alt="#" height='90'/></Col><Col xs={8} style={{color:'white', fontSize:14 }}><br></br> Bhaktivedanta Institute<br></br> Bhubaneswar</Col>
               </Row>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
@@ -23,17 +24,11 @@ function Header() {
                     <Nav.Link> About Us</Nav.Link>
                   </LinkContainer>
                   <LinkContainer to='/gallery'>
-                    <Nav.Link> Gallery</Nav.Link>
+                    <Nav.Link> Publications</Nav.Link>
                   </LinkContainer>
-                  <NavDropdown title="More details" id="basic-nav-dropdown">
-                    <LinkContainer to='/contact'>
-                      <NavDropdown.Item >Contact Us</NavDropdown.Item>
-                    </LinkContainer>
-                    <NavDropdown.Divider />
-                    <LinkContainer to='/form'>
-                      <NavDropdown.Item>Register as volunteer</NavDropdown.Item>
-                    </LinkContainer>
-                  </NavDropdown>
+                  <LinkContainer to='/contact'>
+                    <Nav.Link> Contact Us</Nav.Link>
+                  </LinkContainer>
                 </Nav>
               </Navbar.Collapse>
             </Container>

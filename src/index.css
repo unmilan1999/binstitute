@@ -3,13 +3,13 @@
 }
 
 
-main {
-  min-height: 100vh;
-}
+
 header {
   background-color: var(--primary);
   position: fixed;
   width: 100%;
+  opacity: 1;
+  z-index: 9000;
 }
 footer {
   background-color: black;

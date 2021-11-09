@@ -1,0 +1,8 @@
+#bg{
+
+background-image: url('./assets/meditation.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+filter: brightness(30%);
+}

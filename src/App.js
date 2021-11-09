@@ -13,10 +13,9 @@ import {Route,Switch,Redirect } from 'react-router-dom';
 
 function App() {
   return (
-    <div>
+    <div style={{backgroundColor: 'white'}}>
       <Header />
-       <main>
-         <Container>
+         <div>
           <Switch>
             <Route path='/about' component={About} />
             <Route path='/gallery' component={Gallery} />
@@ -26,8 +25,7 @@ function App() {
             <Route path="/" exact component={Home}/>
             <Redirect to="/" />
           </Switch>
-         </Container>
-       </main>
+         </div>
       <Footer />
     </div>
   );
