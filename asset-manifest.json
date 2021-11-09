@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/binstitute/static/css/main.6cbb01a7.chunk.css",
-    "main.js": "/binstitute/static/js/main.e42009bf.chunk.js",
-    "main.js.map": "/binstitute/static/js/main.e42009bf.chunk.js.map",
+    "main.js": "/binstitute/static/js/main.67612844.chunk.js",
+    "main.js.map": "/binstitute/static/js/main.67612844.chunk.js.map",
     "runtime-main.js": "/binstitute/static/js/runtime-main.7cf944dc.js",
     "runtime-main.js.map": "/binstitute/static/js/runtime-main.7cf944dc.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/binstitute/static/css/2.b57b7cfd.chunk.css",
@@ -15,10 +15,10 @@
     "static/css/main.6cbb01a7.chunk.css.map": "/binstitute/static/css/main.6cbb01a7.chunk.css.map",
     "static/js/2.ad89c543.chunk.js.LICENSE.txt": "/binstitute/static/js/2.ad89c543.chunk.js.LICENSE.txt",
     "static/media/favicon.c9e507cb.png": "/binstitute/static/media/favicon.c9e507cb.png",
-    "static/media/img1.cefb73d9.JPG": "/binstitute/static/media/img1.cefb73d9.JPG",
+    "static/media/img1.d92d4c78.JPG": "/binstitute/static/media/img1.d92d4c78.JPG",
     "static/media/img2.17a208e9.JPG": "/binstitute/static/media/img2.17a208e9.JPG",
     "static/media/img3.dd803b3f.JPG": "/binstitute/static/media/img3.dd803b3f.JPG",
-    "static/media/img4.d0396815.JPG": "/binstitute/static/media/img4.d0396815.JPG",
+    "static/media/img4.ed0652df.JPG": "/binstitute/static/media/img4.ed0652df.JPG",
     "static/media/mail.00edf66e.jpg": "/binstitute/static/media/mail.00edf66e.jpg",
     "static/media/abt.css": "/binstitute/static/media/meditation.577dde7d.jpg",
     "static/media/phone.5cfab0f6.jpg": "/binstitute/static/media/phone.5cfab0f6.jpg"
@@ -28,6 +28,6 @@
     "static/css/2.b57b7cfd.chunk.css",
     "static/js/2.ad89c543.chunk.js",
     "static/css/main.6cbb01a7.chunk.css",
-    "static/js/main.e42009bf.chunk.js"
+    "static/js/main.67612844.chunk.js"
   ]
 }
