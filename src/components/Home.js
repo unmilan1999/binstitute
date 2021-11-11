@@ -61,29 +61,12 @@ function Home() {
     <main>
       <center>
 
-      <div class="d-flex flex-column min-vh-100">
-
-<div id="o-banner" class="d-flex flex-column-reverse flex-grow-1">
-    <div id="c1" class="w-100 d-flex flex-wrap justify-content-around bg-white">
-        <div class="my-3 d-flex flex-nowrap animate__animated animate__zoomIn animate__faster animate__delay-1s">
-        </div>
-        <div class="my-3 d-flex flex-nowrap animate__animated animate__zoomIn animate__faster animate__delay-1s">
-        </div>
-        <div class="my-3 align-self-center animate__animated animate__zoomIn animate__faster animate__delay-1s">
-         </div>
-    </div>
-    <div id="c2" class="p-2 p-sm-4 ml-md-auto col-12 col-md-8 col-lg-5 bg-white">
-            <h2 class="m-3 mx-sm-4 text-blue text-normal text-center"> 12<sup>th</sup> AISSQ Conference</h2>
-            <div class="text-center mt-sm-4">
-                <h1 class="mx-2 mx-sm-4 display-3 font-weight-bold animate__animated animate__backInLeft animate__faster">Science & <br/> Spiritual <br/> Quest</h1>
-            </div>
-        </div>
-    <img id="replace" src={Banner} alt="Banner" />
-</div>
-</div>
+      <div style={{paddingTop: 220, paddingBottom:220, fontSize: 20}} id="bg">
+					</div>
 
 <main class="container-lg px-0 flex-grow-1">
 <div class="m-4">
+  <br/>
     <hr style={{backgroundColor: 'grey', height: 1}}/>
     <div class="row row-cols-2 my-2 my-sm-4">
         <div class="col-12 col-sm-4 col-lg-6 order-sm-2">
@@ -106,9 +89,7 @@ function Home() {
           </Fade>
         </div>
     </div>
-    <br/>
     <hr style={{backgroundColor: 'grey', height: 1}}/>
-    <br/>
     <div class="row row-cols-2 my-2 my-sm-4">
         <div class="col-12 col-sm-4 col-lg-6 order-sm-1">
             <div class="h-100 d-flex flex-column justify-content-center">
