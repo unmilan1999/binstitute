@@ -28,6 +28,12 @@ ul {
 .dropdown:hover>.dropdown-menu {
   display: block;
 }
+.nav-link{
+  color: #D42C70cf !important;
+}
+.nav-link:hover, .active>.nav-link{
+  color: #FE3486 !important;
+}
 .dropdown-item{
   color: #05142F !important;
 }
