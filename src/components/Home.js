@@ -73,9 +73,9 @@ function Home() {
          </div>
     </div>
     <div id="c2" class="p-2 p-sm-4 ml-md-auto col-12 col-md-8 col-lg-5" style={{backgroundColor: 'grey'}}>
-        <h2 class="m-3 mx-sm-4 text-normal text-center animate__animated animate__backInUp animate__faster" style={{color:'white'}}> Welcome to</h2><br/>
+        <h2 class="m-3 mx-sm-4 text-normal text-center animate__animated animate__backInUp animate__faster" style={{color:'white'}}> Welcome to</h2><br/><br/><br/>
         <div class="text-center mt-sm-4">
-            <h1 class="mx-2 mx-sm-4 display-3 font-weight-bold animate__animated animate__backInLeft animate__faster animate__delay-1s" style={{color:'white'}}>Bhaktivedanta Institute</h1><br/><br/>
+            <h1 class="mx-2 mx-sm-4 display-3 font-weight-bold animate__animated animate__backInLeft animate__faster animate__delay-1s" style={{color:'white'}}>Bhaktivedanta Institute</h1><br/><br/><br/><br/>
         </div>
     </div>
     <img id="replace" src={Banner} alt="Banner" />
