@@ -88,7 +88,6 @@ p, a, li, #clock span, .title, .text-normal{
   background-attachment: scroll;
   background-position: center;
   background-size: cover;
-  color: #AC1775;
 }
 #o-banner a{
   color: #12609B !important;
