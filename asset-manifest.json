@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/binstitute/static/css/main.373e0779.chunk.css",
-    "main.js": "/binstitute/static/js/main.ea4547b0.chunk.js",
-    "main.js.map": "/binstitute/static/js/main.ea4547b0.chunk.js.map",
-    "runtime-main.js": "/binstitute/static/js/runtime-main.c6c12aeb.js",
-    "runtime-main.js.map": "/binstitute/static/js/runtime-main.c6c12aeb.js.map",
+    "main.css": "/binstitute/static/css/main.24c4b0a4.chunk.css",
+    "main.js": "/binstitute/static/js/main.cf47e810.chunk.js",
+    "main.js.map": "/binstitute/static/js/main.cf47e810.chunk.js.map",
+    "runtime-main.js": "/binstitute/static/js/runtime-main.4ccaf008.js",
+    "runtime-main.js.map": "/binstitute/static/js/runtime-main.4ccaf008.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/binstitute/static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.f5026220.chunk.js": "/binstitute/static/js/2.f5026220.chunk.js",
-    "static/js/2.f5026220.chunk.js.map": "/binstitute/static/js/2.f5026220.chunk.js.map",
-    "static/js/3.e8415d76.chunk.js": "/binstitute/static/js/3.e8415d76.chunk.js",
-    "static/js/3.e8415d76.chunk.js.map": "/binstitute/static/js/3.e8415d76.chunk.js.map",
+    "static/js/2.0e4c9a64.chunk.js": "/binstitute/static/js/2.0e4c9a64.chunk.js",
+    "static/js/2.0e4c9a64.chunk.js.map": "/binstitute/static/js/2.0e4c9a64.chunk.js.map",
+    "static/js/3.e9de08c0.chunk.js": "/binstitute/static/js/3.e9de08c0.chunk.js",
+    "static/js/3.e9de08c0.chunk.js.map": "/binstitute/static/js/3.e9de08c0.chunk.js.map",
     "index.html": "/binstitute/index.html",
     "static/css/2.b57b7cfd.chunk.css.map": "/binstitute/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.373e0779.chunk.css.map": "/binstitute/static/css/main.373e0779.chunk.css.map",
-    "static/js/2.f5026220.chunk.js.LICENSE.txt": "/binstitute/static/js/2.f5026220.chunk.js.LICENSE.txt",
+    "static/css/main.24c4b0a4.chunk.css.map": "/binstitute/static/css/main.24c4b0a4.chunk.css.map",
+    "static/js/2.0e4c9a64.chunk.js.LICENSE.txt": "/binstitute/static/js/2.0e4c9a64.chunk.js.LICENSE.txt",
     "static/media/mobile.css": "/binstitute/static/media/virus.253b2f88.webp",
     "static/media/event1.fa0b51fc.JPG": "/binstitute/static/media/event1.fa0b51fc.JPG",
     "static/media/event2.945a2990.JPG": "/binstitute/static/media/event2.945a2990.JPG",
@@ -27,10 +27,10 @@
     "static/media/phone.5cfab0f6.jpg": "/binstitute/static/media/phone.5cfab0f6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6c12aeb.js",
+    "static/js/runtime-main.4ccaf008.js",
     "static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.f5026220.chunk.js",
-    "static/css/main.373e0779.chunk.css",
-    "static/js/main.ea4547b0.chunk.js"
+    "static/js/2.0e4c9a64.chunk.js",
+    "static/css/main.24c4b0a4.chunk.css",
+    "static/js/main.cf47e810.chunk.js"
   ]
 }
