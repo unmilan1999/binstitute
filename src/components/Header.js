@@ -18,20 +18,20 @@ function Header() {
                 <Nav className="me-auto"></Nav>
                 <Nav>
                   <LinkContainer to='/'>
-                    <Nav.Link> Home </Nav.Link>
+                    <Nav.Link style={{color:'white'}}> Home </Nav.Link>
                   </LinkContainer>
                   
-                    <NavDropdown title="About Us" id="basic-nav-dropdown">
+                    <NavDropdown title="About Us" id="basic-nav-dropdown" style={{color:'white'}}>
                       <LinkContainer to='/about/bhaktivedanta-institute'><NavDropdown.Item href="#bhaktivedantaInstitute">Bhaktivedanta Institute</NavDropdown.Item></LinkContainer>
                       <LinkContainer to='/about/founder-acharya'><NavDropdown.Item href="#founderAcharya">Founder Acharya</NavDropdown.Item></LinkContainer>
                       <LinkContainer to='/about/founder-director'><NavDropdown.Item href="#founderDirector">Founder Director</NavDropdown.Item></LinkContainer>
                       <LinkContainer to='/about/foundation-words'><NavDropdown.Item href="#foundationWords">Foundation Words</NavDropdown.Item></LinkContainer>
                     </NavDropdown>
                   
-                  <LinkContainer to='/gallery'>
+                  <LinkContainer to='/gallery' style={{color:'white'}}>
                     <Nav.Link> Publications</Nav.Link>
                   </LinkContainer>
-                  <LinkContainer to='/contact'>
+                  <LinkContainer to='/contact' style={{color:'white'}}>
                     <Nav.Link> Contact Us</Nav.Link>
                   </LinkContainer>
                 </Nav>

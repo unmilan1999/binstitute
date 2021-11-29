@@ -1,6 +1,7 @@
 
 import { Container, Col, Row, Card } from 'react-bootstrap'
 import './abt.css'
+import Guru from './assets/guru.jpg'
 
 function AboutFounderAcharya(){
     return(
@@ -12,7 +13,7 @@ function AboutFounderAcharya(){
 			      </div>
             <Container style={{ color: 'black', paddingTop: 50,paddingBottom: 50}}>
             <b style={{ fontSize: 30}}>FOUNDER ACHARYA</b> <br /><br/>
-            <img width="161" height="213" src="http://binstitute.org/wp-content/uploads/2019/11/acbsp.jpg" class="vc_single_image-img attachment-full" alt="" />
+            <img width="161" height="213" src={Guru} class="vc_single_image-img attachment-full" alt="" />
             <p align="justify" > <br/>
               <p>
                 His Divine Grace A.C. Bhaktivedanta Swami Srila Prabhupāda (1896 –1977), Founder-Ācārya of the Bhaktivedanta Institute was one of the most prominent spiritual and cultural ambassadors of the 20th century. He belongs to the monotheistic Gaudiya Vaishnava Vedanta tradition of India which upholds the three stages of realization of the Absolute Truth namely, Impersonal Brahman, Super Soul and finally Supreme Personality of Godhead as revealed in Śrīmad-Bhāgavatam, the natural commentary on the vedantasutra, and various other spiritual traditions of the World. He had a profound notion of the many facets of science and religion. He strongly felt that scientific knowledge would remain incomplete if we ignore consciousness based paradigms offered by religions of the world in their search for the deeper meaning of our existence. He felt that a synthesis of science and spirituality would only be possible through the joint efforts and open discussions by the deep thinkers of the world. He promoted the concept that “Life comes from Life” indicating a non-material origin of life, and was hopeful that that scientists across the world would be open to scientific exploration of this alternative paradigm. <br /> <br />
