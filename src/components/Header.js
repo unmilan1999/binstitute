@@ -20,9 +20,14 @@ function Header() {
                   <LinkContainer to='/'>
                     <Nav.Link> Home </Nav.Link>
                   </LinkContainer>
-                  <LinkContainer to='/about'>
-                    <Nav.Link> About Us</Nav.Link>
-                  </LinkContainer>
+                  
+                    <NavDropdown title="About Us" id="basic-nav-dropdown">
+                      <LinkContainer to='/about/bhaktivedanta-institute'><NavDropdown.Item href="#bhaktivedantaInstitute">Bhaktivedanta Institute</NavDropdown.Item></LinkContainer>
+                      <LinkContainer to='/about/founder-acharya'><NavDropdown.Item href="#founderAcharya">Founder Acharya</NavDropdown.Item></LinkContainer>
+                      <LinkContainer to='/about/founder-director'><NavDropdown.Item href="#founderDirector">Founder Director</NavDropdown.Item></LinkContainer>
+                      <LinkContainer to='/about/foundation-words'><NavDropdown.Item href="#foundationWords">Foundation Words</NavDropdown.Item></LinkContainer>
+                    </NavDropdown>
+                  
                   <LinkContainer to='/gallery'>
                     <Nav.Link> Publications</Nav.Link>
                   </LinkContainer>

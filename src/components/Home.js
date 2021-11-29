@@ -1,8 +1,8 @@
 import 'react-slideshow-image/dist/styles.css'
-import {Container } from 'react-bootstrap'
+import {Container} from 'react-bootstrap'
 import { Fade } from 'react-slideshow-image';
-import Img4 from './assets/img4.jpg'
-import Img3 from './assets/img3.JPG'
+import Img4 from './assets/img4.jpg';
+import Img3 from './assets/img3.JPG';
 import Img2 from './assets/img2.JPG';
 import Img1 from './assets/img1.jpg';
 import Ev1 from './assets/event1.JPG';
